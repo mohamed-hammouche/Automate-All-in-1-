@@ -23,7 +23,7 @@ This is a simple C program that lets you build an automaton using your own chara
 1. **Compile the code**
 2. **Run the program**
 3. **Follow the prompts**
-    > Enter characters and length range
-    > Optionally filter by prefix/suffix
-    > Define terminals, non-terminals, and rules
+   . Enter characters and length range
+   . Optionally filter by prefix/suffix
+   . Define terminals, non-terminals, and rules
 
