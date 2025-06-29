@@ -1,4 +1,4 @@
-#Formal Language Automaton & Grammar Tester in C
+# Formal Language Automaton & Grammar Tester in C
 
 This is a simple C program that lets you build an automaton using your own character set and test words based on prefix/suffix filters and user-defined grammar rules. It's useful for experimenting with basic concepts from automata theory and formal grammars.
 
